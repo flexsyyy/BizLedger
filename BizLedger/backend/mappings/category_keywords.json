@@ -1,0 +1,13 @@
+{
+  "bills": ["electricity", "bijli", "bill", "water", "wifi", "internet", "receipt"],
+  "groceries": ["milk", "rice", "dal", "sugar", "flour", "vegetables", "fruits", "atta", "grocery"],
+  "transport": ["bus", "auto", "uber", "petrol", "diesel", "rickshaw", "cab"],
+  "rent": ["rent", "kiraya", "landlord", "flat"],
+  "family": ["daughter", "wife", "son", "father", "mother", "child", "mummy", "daddy"],
+  "loan": ["loan", "borrowed", "lend", "interest", "emi"],
+  "credit_sales": ["udhaar", "credit", "due", "not paid", "pending", "sold on credit"],
+  "personal": ["myself", "home", "personal", "self", "ghar", "gift"],
+  "entertainment": ["movie", "cinema", "netflix", "music", "theatre"],
+  "shopping": ["amazon", "flipkart", "clothes", "shoes", "purchase"],
+  "general": []
+}
