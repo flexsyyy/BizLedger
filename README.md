@@ -1,0 +1,1 @@
+BizLedger is an intelligent business transaction recording application that uses voice recognition and AI to automatically parse and categorize financial transactions. The app leverages OpenAI's Whisper for speech-to-text conversion and Claude AI for intelligent transaction parsing and SQL query generation.
